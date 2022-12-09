@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19660c5d.css",
+    "main.js": "/static/js/main.e82a3f57.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/home-img.jpeg": "/static/media/home-img.e39539bb5a58d6827d50.jpeg",
+    "static/media/about-img.jpeg": "/static/media/about-img.3f087d850ed9e2aef04a.jpeg",
+    "static/media/cart-item-1.png": "/static/media/cart-item-1.06d00c8e27fca08dc7b9.png",
+    "static/media/cart-item-3.png": "/static/media/cart-item-3.963b366b226bb0645abb.png",
+    "static/media/cart-item-4.png": "/static/media/cart-item-4.308fa0272f8f9dd123fa.png",
+    "static/media/cart-item-2.png": "/static/media/cart-item-2.c518238d3c00a074471d.png",
+    "static/media/product-1.png": "/static/media/product-1.fab431365a66ae1a7a9d.png",
+    "static/media/product-3.png": "/static/media/product-3.5c1364d4957356e274ad.png",
+    "static/media/product-2.png": "/static/media/product-2.1df5e326bd44535bdd89.png",
+    "static/media/pic-1.png": "/static/media/pic-1.b105fe43e8bf62808d9f.png",
+    "static/media/pic-2.png": "/static/media/pic-2.5d5e42bfc8bc3622b556.png",
+    "static/media/pic-3.png": "/static/media/pic-3.1ef1ecba9db4ad9c12c8.png",
+    "static/media/blog-2.jpeg": "/static/media/blog-2.93f4b59aa4e83faba1b0.jpeg",
+    "static/media/blog-1.jpeg": "/static/media/blog-1.87bd2070e31e0084e8f8.jpeg",
+    "static/media/blog-3.jpeg": "/static/media/blog-3.9076833f46becdc562f2.jpeg",
+    "static/media/menu-6.png": "/static/media/menu-6.0913472918ae29b4626f.png",
+    "static/media/menu-4.png": "/static/media/menu-4.c16f535884cf407af21a.png",
+    "static/media/menu-2.png": "/static/media/menu-2.39568caf87617df10355.png",
+    "static/media/menu-5.png": "/static/media/menu-5.43f882bf6e0cbe58dee4.png",
+    "static/media/menu-1.png": "/static/media/menu-1.298439f74041cf927150.png",
+    "static/media/menu-3.png": "/static/media/menu-3.44d221229e80535a7010.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.19660c5d.css.map": "/static/css/main.19660c5d.css.map",
+    "main.e82a3f57.js.map": "/static/js/main.e82a3f57.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19660c5d.css",
+    "static/js/main.e82a3f57.js"
+  ]
+}
